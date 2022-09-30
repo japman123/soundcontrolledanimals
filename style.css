@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;         
+    background: white;
+}
+
+.main_div{
+    background: gold;
+}
+
+#title{
+    color: red;
+}
+
+#note{
+    color: grey;
+}
+
+button{
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    color: grey;
+    position: fixed;
+    text-shadow: 5px 5px 5px rgb(170, 170, 170);
+    width: 100%;
+}
